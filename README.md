@@ -1,1 +1,1 @@
-This is a repo where all the important concepts related to JAVA is avaoibale and I'll try to provide more and more upadtes on this repo.
+This is a repo where all the important concepts related to JAVA are available and I'll try to provide more updates on this repo.
